@@ -5,9 +5,15 @@ Stronghands Protocol is a series of projects deployed on multiple EVM-based netw
 
 
 ### Projects
+ - Stronghands Money (Core Website)
+ - SMXSwap (Uniswap V2 fork)
 
+### Facilities
+ - Token Icons & Metadata (@stronghandsmoney/assets)
 
 ### Contracts
-
+ - SwapFactory:
+ - SwapRouter:
+ - FeeRecipient:
 
 ### Contribution
